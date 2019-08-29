@@ -235,7 +235,7 @@ li > a:only-child:after { content: ''; }
 		text-decoration:none;
 		border:none;
 		float: right;
-		background-color: #17a2b8;
+		background-color: #339900;
 		color: #fff;
 	}
 	nav ul {
@@ -359,8 +359,8 @@ li > a:only-child:after { content: ''; }
 }
 .btn-info1 {
     color: #eee;
-    background-color: #17a2b8;
-    border-color: #17a2b8;
+    background-color: #339900;
+    border-color: #339900;
     border-radius: 0;
     letter-spacing: 1px;
     font-size: 15px;
@@ -432,7 +432,7 @@ li > a:only-child:after { content: ''; }
 }
 
 .popup .close:hover {
-    color: #17a2b8;
+    color: #339900;
 }
 /*-- //popup --*/
 
@@ -572,7 +572,7 @@ li.breadcrumb-item a {
 	color: #333;
 }
 .slider-info a i{
-	color: #17a2b8;
+	color: #339900;
 }
 a.mr-2 i {
     color: green;
@@ -612,7 +612,7 @@ a.mr-2 i {
 /* login and register modal */
 
 .right-w3l input[type="submit"] {
-    background: #17a2b8;
+    background: #339900;
     border: none;
     color: #fff;
     font-size: 15px;
@@ -683,7 +683,7 @@ h4.left-heading{
 	background: #f9f8fa;
 }
 .image1 h4 {
-    color: #17a2b8;
+    color: #339900;
 }
 .welcome-button a {
     font-size: 15px;
@@ -695,7 +695,7 @@ h4.left-heading{
     display: inline-block;
 }
 .welcome-button a:hover {
-	background: #17a2b8;
+	background: #339900;
 }
 
 /*-- //welcome --*/
@@ -769,122 +769,6 @@ h4.left-heading{
 }
 /*-- //services --*/
 
-/*-- team --*/
-
-.agileits-team-grid {
-    width: 20%;
-}
-
-.agileits-team-grids {
-    margin: 3em 0;
-}
-.team-info{
-    position: relative;
-    overflow: hidden;	
-}
-.team-caption h4{
-    color: #eee;
-    font-size: 1.4em;
-    font-weight: 600;
-    margin: .5em 0 .3em 0px;
-}
-.team-caption p{
-    color: #999;
-    font-size: .9em;
-    margin: 0;
-    letter-spacing: 1px;
-}
-.team-caption ul{
-    padding: 0;
-    margin: 1em 0 2em 0;
-}
-.team-caption ul li{
-    display: inline-block;
-	width:15px;
-}
-.team-caption ul li a span.fa.fa-facebook{
-    font-size: 12px;
-    background: none;
-    color: #888;
-    transition: 0.5s all;
-    -webkit-transition: 0.5s all;
-    -moz-transition: 0.5s all;
-    -o-transition: 0.5s all;
-    -ms-transition: 0.5s all;
-}
-.team-caption ul li a span.fa.fa-facebook:hover {
-    color: #3b5998;
-}
-.team-caption ul li a span.fa.fa-linkedin{
-    font-size: 12px;
-    background: none;
-    color: #888;
-    transition: 0.5s all;
-    -webkit-transition: 0.5s all;
-    -moz-transition: 0.5s all;
-    -o-transition: 0.5s all;
-    -ms-transition: 0.5s all;
-}
-.team-caption ul li a span.fa.fa-linkedin:hover {
-    color: #0077b5;
-}
-.team-caption ul li a span.fa.fa-twitter{
-    font-size: 12px;
-    background: none;
-    color: #888;
-    transition: 0.5s all;
-    -webkit-transition: 0.5s all;
-    -moz-transition: 0.5s all;
-    -o-transition: 0.5s all;
-    -ms-transition: 0.5s all;
-}
-.team-caption ul li a span.fa.fa-twitter:hover{
-	color: #55acee;
-}
-.team-caption ul li a span.fa.fa-rss{
-    font-size: 12px;
-    background: none;
-    color: #888;
-    transition: 0.5s all;
-    -webkit-transition: 0.5s all;
-    -moz-transition: 0.5s all;
-    -o-transition: 0.5s all;
-    -ms-transition: 0.5s all;
-}
-.team-caption ul li a span.fa.fa-rss:hover{
-	color: #f26522;
-}
-.team-caption {
-    background: #222;
-    padding: 1em;
-    position: absolute;
-    left: 0px;
-    bottom: -105%;
-    text-align: center;
-    width: 100%;
-    -webkit-transition: .5s all;
-    transition: .5s all;
-    -moz-transition: .5s all;
-}
-.team-info:hover .team-caption{
-    bottom: 0%;
-}
-.team-info:hover .team-caption {
-    bottom: 0%;
-}
-h4.text {
-    text-align: center;
-    font-size: 23px;
-    letter-spacing: -1px;
-    color: #333;
-}
-p.text {
-    color: #777;
-    text-align: center;
-    width: 100%;
-    margin-top: 5px;
-}
-/*-- //team --*/
 
 /*-- subscribe --*/
 .subscribe form {
@@ -929,7 +813,7 @@ p.text {
 
 /*-- section counter --*/
 .section {
-    background: #17a2b8;
+    background: #339900;
     position: relative;
 }
 .examples h4 {
@@ -1029,7 +913,7 @@ p.countdown-text {
 	font-size: 3em;
     font-weight: 600;
     letter-spacing: 1px;
-    color: #17a2b8;
+    color: #339900;
 	line-height: 2em;
 }
 
@@ -1392,7 +1276,7 @@ p.para-w3-agile {
 	-o-transition: 0.5s all;
 }
 .thim-click-to-bottom i:hover {
-	color: #17a2b8;
+	color: #339900;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
@@ -1474,7 +1358,7 @@ h5.card-title {
 }
 .btn-primary:hover {
     color: #fff;
-    background-color: #17a2b8;
+    background-color: #339900;
     border-color:transparent;
 }
 /*-- //Recent Events --*/
